@@ -248,7 +248,7 @@
                                             <constraint firstItem="H4B-O6-zkY" firstAttribute="leading" secondItem="v2o-8j-PAc" secondAttribute="leading" id="pF6-w1-ztq"/>
                                         </constraints>
                                     </stackView>
-                                    <stackView opaque="NO" tag="10" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="1Ez-Yk-5qo">
+                                    <stackView opaque="NO" tag="10" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="1Ez-Yk-5qo">
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" distribution="equalSpacing" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="PZz-mL-JN5">
                                                 <subviews>
@@ -259,7 +259,7 @@
                                                                 <color key="textColor" red="1" green="0.34509803919999998" blue="0.33333333329999998" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
                                                             </label>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Poison/Grass" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XG5-e6-hBe">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="   " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XG5-e6-hBe">
                                                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
                                                                 <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                                                 <nil key="highlightedColor"/>
@@ -307,7 +307,7 @@
                                                                         <color key="textColor" red="1" green="0.34509803919999998" blue="0.33333333329999998" alpha="1" colorSpace="calibratedRGB"/>
                                                                         <nil key="highlightedColor"/>
                                                                     </label>
-                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eVe-so-qNf">
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="    " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eVe-so-qNf">
                                                                         <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
                                                                         <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                                                         <nil key="highlightedColor"/>
@@ -407,7 +407,7 @@
                             <constraint firstItem="8xa-cA-xKk" firstAttribute="leading" secondItem="DcI-oF-Ajd" secondAttribute="leadingMargin" id="fYV-Yf-V4I"/>
                             <constraint firstItem="msq-Pl-1p0" firstAttribute="top" secondItem="vVa-fH-6CU" secondAttribute="bottom" constant="8" id="lDN-s4-2TZ"/>
                             <constraint firstItem="qsA-ip-T1u" firstAttribute="top" secondItem="DcI-oF-Ajd" secondAttribute="top" id="ou6-Kc-rUT"/>
-                            <constraint firstItem="8xa-cA-xKk" firstAttribute="top" secondItem="qsA-ip-T1u" secondAttribute="bottom" constant="8" id="rMf-UU-EUG"/>
+                            <constraint firstItem="8xa-cA-xKk" firstAttribute="top" secondItem="qsA-ip-T1u" secondAttribute="bottom" constant="20" id="rMf-UU-EUG"/>
                             <constraint firstAttribute="trailing" secondItem="I2L-Fi-S5N" secondAttribute="trailing" id="reb-WG-FGI"/>
                             <constraint firstItem="qsA-ip-T1u" firstAttribute="leading" secondItem="DcI-oF-Ajd" secondAttribute="leading" id="uJY-04-jxb"/>
                         </constraints>
